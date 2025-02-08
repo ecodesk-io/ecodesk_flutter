@@ -5,7 +5,7 @@
 
 [![likes](https://badges.bar/ecodesk_flutter/likes)](https://pub.dev/packages/ecodesk_flutter/score) [![popularity](https://badges.bar/ecodesk_flutter/popularity)](https://pub.dev/packages/ecodesk_flutter) [![pub points](https://badges.bar/ecodesk_flutter/pub%20points)](https://pub.dev/packages/ecodesk_flutter/score) 
 
-![Demo Chat](https://raw.githubusercontent.com/ecodesk-io/ecodesk_flutter/main/images/chatImages.png)
+![Demo Chat](https://media.githubusercontent.com/media/ecodesk-io/ecodesk_flutter/main/images/chatImages.png)
 
 [![button](https://raw.githubusercontent.com/ecodesk-io/ecodesk_flutter/main/images/demoButton.svg)](https://ecodesk-demo.eduardom.dev/)      [![button](https://raw.githubusercontent.com/ecodesk-io/ecodesk_flutter/main/images/getEcodesk.svg)](https://ecodesk.io/)
 
