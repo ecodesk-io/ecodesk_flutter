@@ -1,19 +1,18 @@
 ![logo](https://raw.githubusercontent.com/ecodesk-io/ecodesk_flutter/main/images/logo.svg)
 
-[![pub package](https://img.shields.io/pub/v/ecodesk_flutter.svg?label=ecodesk_flutter&color=blue)](https://pub.dev/packages/ecodesk_flutter)
-[![style: effective dart](https://img.shields.io/badge/style-effective_dart-40c4ff.svg)](https://pub.dev/packages/effective_dart)
-![License](https://img.shields.io/github/license/ecodesk-io/ecodesk_flutter?color=black)
-![GitHub issues](https://img.shields.io/github/issues/ecodesk-io/ecodesk_flutter?color=green&label=Issues)
+[![pub package](https://img.shields.io/pub/v/ecodesk_flutter.svg?label=Ecodesk%20Flutter&color=blue&style=for-the-badge)](https://pub.dev/packages/ecodesk_flutter)
+[![style: effective dart](https://img.shields.io/badge/style-effective_dart-40c4ff.svg?style=for-the-badge)](https://pub.dev/packages/effective_dart)
+![License](https://img.shields.io/github/license/ecodesk-io/ecodesk_flutter?color=black&style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/ecodesk-io/ecodesk_flutter?color=green&label=Issues&style=for-the-badge)
 
-[![likes](https://badges.bar/ecodesk_flutter/likes)](https://pub.dev/packages/ecodesk_flutter/score)
-[![popularity](https://badges.bar/ecodesk_flutter/popularity)](https://pub.dev/packages/ecodesk_flutter)
-[![pub points](https://badges.bar/ecodesk_flutter/pub%20points)](https://pub.dev/packages/ecodesk_flutter/score)
+[![likes](https://img.shields.io/pub/likes/ecodesk_flutter?style=for-the-badge)](https://pub.dev/packages/ecodesk_flutter/score)
+[![popularity](https://img.shields.io/pub/popularity/ecodesk_flutter?style=for-the-badge)](https://pub.dev/packages/ecodesk_flutter)
+[![pub points](https://img.shields.io/pub/points/ecodesk_flutter?style=for-the-badge)](https://pub.dev/packages/ecodesk_flutter/score)
 
 ![Demo Chat](https://media.githubusercontent.com/media/ecodesk-io/ecodesk_flutter/main/images/chatImages.png)
 
-[![button](https://raw.githubusercontent.com/ecodesk-io/ecodesk_flutter/main/images/demoButton.svg)](https://ecodesk.io/demo)      
-[![button](https://raw.githubusercontent.com/ecodesk-io/ecodesk_flutter/main/images/getEcodesk.svg)](https://ecodesk.io/)
-
+[![Try Demo](https://img.shields.io/badge/Try%20Demo-Click%20Here-blue?style=for-the-badge&logo=play)](https://ecodesk.io/demo)  
+[![Get Ecodesk](https://img.shields.io/badge/Get%20Ecodesk-Start%20Now-green?style=for-the-badge&logo=download)](https://ecodesk.io/)
 
 Compatible with **all** platforms: Windows, Android, Linux, MacOS, and iOS
 

@@ -1,6 +1,6 @@
 name: ecodesk_flutter
 description: Native Flutter implementation of the ecodesk.io chat widget.
-version: 3.1.1
+version: 3.1.2
 homepage: https://github.com/ecodesk-io/ecodesk_flutter
 
 environment:
